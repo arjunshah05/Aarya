@@ -11,4 +11,4 @@ gd now ev ts on
 gd hp me b gd hp me gd now eg on u
 
 
-maa daaknnnne tk kn sb godd hpm
+maa daaknnnne tk kn sb godd hpm.

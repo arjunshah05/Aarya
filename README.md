@@ -12,4 +12,4 @@ gd hp me b gd hp me gd now eg on u
 
 
 maa daaknnnne tk kn sb godd hpm.
-gd hp me
+gd hp me.

@@ -16,3 +16,4 @@ gd hp me..
 gd sb tk ko...
 gd sb tk ko
 gd ek ce..
+gd sl evg

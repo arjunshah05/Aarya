@@ -9,7 +9,7 @@ ma now ev ts ds on u.
 
 gd now ev ts on 
 gd hp me b gd hp me gd now eg on u
-
+gd ln to me pl sl ev
 
 maa daaknnnne tk kn sb godd hpm.
 gd hp me..

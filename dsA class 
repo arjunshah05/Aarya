@@ -1,1 +1,2 @@
-..
+left shift --- n << k -- n* 2^k
+Right shift --- n << k -- n

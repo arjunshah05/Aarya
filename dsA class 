@@ -1,2 +1,11 @@
 left shift --- n << k -- n* 2^k
 Right shift --- n << k -- n
+
+
+ODD OR EVEN 
+
+
+
+if (n && 1 ) == 0 even;
+else odd ;
+
